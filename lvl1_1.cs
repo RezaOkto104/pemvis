@@ -53,7 +53,7 @@ namespace testing
         new string[] { "Orang Utan", "Orang Sawah", "Orang Jambi", "Orang Gak Hujan pak~" },
         new string[] { "Belimbingan Skripsi", "Alpucat", "Buah Naga", "Apelan" },
         };
-        private int[] jawabanBenar = new int[] { 0, 1, 2, 3, 0, 3, 3, 1, 1, 0, 0, 1, 1, 0, 3}; // jawaban benar untuk setiap soal
+        private int[] jawabanBenar = new int[] { 2, 1, 3, 0, 3, 2, 1, 1, 3, 2, 1, 0, 1, 3, 0}; // jawaban benar untuk setiap soal
 
         public lvl1_1()
         {
