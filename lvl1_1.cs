@@ -20,38 +20,38 @@ namespace testing
         private int counter = 0;
         private int waktu = 59;
         private string[] soal = new string[] {
-        "Setelah tamat dari sekolah Hogere Burber School di tahun 1915, Soekarno selanjutnya tinggal bersama teman dari ayahnya yang juga dikenal pendiri Serikat Islam. Saat dirumah tokoh tersebut, Soekarno yang masih muda pun mulai belajar dalam bidang politik, tokoh yang dimaksud adalah...",
-        "Beliau adalah negarawan sekaligus tokoh ekonomi Indonesia, lahir di Bukit Tinggi, 12 Agustus 1902 bersama Soekarno, beliau memainkan peranan sentral dalam perjuangan kemerdekaan Indonesia, beliau mendapat julukan ‘Bapak Koperasi’ tokoh yang dimaksud adalah....",
-        "Tokoh ini merupakan salah satu tokoh pendidikan Indonesia, Ing Ngarso Sung Tulodo, Ing Madyo Mangun Karso, Tut Wuri Hkalianyani, adalah qoute terkenal dari Beliau, lebih terkenal dengan sebutan Ki Hajar Dewantara, tokoh yang dimaksud adalah ...",
-        "Pada masa kolonial, tokoh ini aktif dalam gerakan organisasi pemuda. Pada masa Jepang menempuh jalur perjuangan ‘Bawah Tanah’ dan Perdana Menteri Indonesia pasca kemerdekaan. Tokoh yang dimaksud adalah...",
-        "Pemikiran-pemikiran beliau memberi sumbangsih besar terhadap Indonesia. Beliau tergabung dalam BPUPKI dan dikenal sebagai salah satu dari 3 tokoh yang mengusulkan dasar negara Indonesia. Tokoh yang dimaksud adalah...",
-        "Keberanian Adipati Unus dalam menyerang Portugis yang kuat, terdengar beritanya ke penjuru pulau Jawa. Ia bahkan diberikan gelar...",
-        "Ia tetap melanjutkan perjuangan suaminya dengan berjuang sendiri memimpin perang di daerah pedalaman Meulaboh bersama dengan pasukannya. Belkalian selalu berusaha untuk menangkapnya karena merasa bahwa Ia sangat berpengaruh pada masyarakatnya dalam berperang, namun sayang Belkalian seringkali gagal menangkapnya karena taktik yang dimilikinya. Tokoh pejuang yang dimaksud adalah...",
-        "Perang Padri yang terjadi tahun 1803 sampai 1838 merupakan perlawanan rakyat yang terjadi di...",
-        "Si Singamangaraja XII adalah tokoh perlawanan rakyat di daerah...",
-        "Salah satu latar belakang dari perang Diponegoro adalah...",
-        "Faletehan, merupakan Panglima Pasukan kerajaan...",
-        "Raja dari Kerajaan Mataram yang berkali-kali menyerang pasukan Belkalian di Batavia adalah...",
-        "Perang Padri diawali dengan perpecahan di kalangan rakyat Indonesia sendiri, yaitu...",
-        "Strategi Belkalian yang paling ampuh menghadapi perlawanan dari penguasa lokal adalah dengan melakukan politik...",
-        "Pejuang yang memimpin perlawanan rakyat Palembang terhadap Inggris dan Belkalian, yang namanya diabadikan menjadi nama Bkalianra Udara Internasional di Palembang adalah..."
+        "Pocong apa yang paling jadi favorit ibu-ibu?",
+        "Kucing apa yang kuno?",
+        "Kota apa yang banyak bapak-bapaknya?",
+        "Suku apa yang banyak berkeliaran di mall?",
+        "Hewan apa yang bersaudara?",
+        "Sayur apa yang pintar nyanyi?",
+        "artis luar negeri siapa yang tidak punya bapak?",
+        "jus apa yang kekurangan darah?",
+        "Kenapa Bebek Goreng Rasanya Enak?",
+        "Hewan Apa yang Kaya?",
+        "Hewan apa yang yang sering shampoan?",
+        "Raja apa yang gemas?",
+        "Huruf apa yang paling kedinginan?",
+        "Orang orang apa yang gak pernah kebasahan waktu hujan?",
+        "Buah apa yang ditakuti mahasiswa"
         };
         private string[][] jawaban = new string[][] {
-        new string[] { "Hos Tjokroaminoto", "Mohammad Hatta", "Mohammad Yamin", "Ahmad Soebardjo" },
-        new string[] { "Soekarno", "Mohammad Hatta", "Mohammad Yamin", "Ki Hajar Dewantara" },
-        new string[] { "Mohammad Hatta", "Tjipto Mangunkusumo", "Suwardi Suryaningrat", "Mohammad Yamin" },
-        new string[] { "Mohammad Hatta", "Soekarno", "Mohammad Yamin", "Sutan Sjahrir" },
-        new string[] { "Mohammad Yamin", "Mohammad Hatta", "Supomo", "Ir. Soekarno" },
-        new string[] { "Pangeran Mangkubumi", "Pangeran Samber Nyowo", "Pangeran Adipati", "Pangeran Sabrang Lor" },
-        new string[] { "Pangeran Diponegoro", "Sisingamangaraja XII", "Pangeran Antasari", "Tjut Nyak’ Dien" },
-        new string[] { "Maluku", "Sumatera Barat", "Aceh", "Jawa Timur" },
-        new string[] { "Bali", "Tapanuli", "Makassar", "Jakarta" },
-        new string[] { "rakyat dibelit oleh berbagai bentuk pajak dan pungutan", "pelanggaran perang atas Traktat London1824", "dampak dari perang Padri yang pertama", "balasan Diponegoro atas serangan dari pemerintah colonial" },
-        new string[] { "Cirebon", "Pajajaran", "Demak", "Majapahit" },
-        new string[] { "Sultan Iskandar Muda", "Sultan Agung", "Sultan Hairun", "Sultan Hasanudin" },
-        new string[] { "munculnya gerakan Wahabi di Sumatra Barat", "konflik antara Kaum Paderi dan Kaum Adat", "persaingan di antara pendukung gerakan Wahabiah", "dukungan pemerintah kolonial terhadap kaum adat" },
-        new string[] { "pecah belah", "aliansi", "gerilya", "balas budi" },
-        new string[] { "Pangerang Antasari", "Pangerang Diponegoro", "Sisinga Mangaraja XII", "Sultan Mahmud Badarauddin II" },
+        new string[] { "Pocong Masak", "Pocong Bebek Angsa", "Pocongan Harga", "Pocong Rambut" },
+        new string[] { "Kucing Garong", "Kucing-galan Jaman", "Kucing-Kucingan", "Kucing Persia" },
+        new string[] { "DaddyPapan", "Daddyland", "Bapakraya", "Purwadaddy" },
+        new string[] { "Suku Riti", "Suku Jawa", "Suku Batak", "Suku Melayu" },
+        new string[] { "Angsa Beradik", "Kakak Tua", "Paman Bebek", "Katak Beradik" },
+        new string[] { "Komeng", "Sawi Bergoyang", "Kol play", "Greentea" },
+        new string[] { "Will Smith", "Mr.Bean", "Drake", "Adele" },
+        new string[] { "jus Semangka", "Jus AlPucet", "Jus Naga", "Jus Tomat" },
+        new string[] { "Karena Pakai Micin", "Karena Digoreng", "Karena Dia", "Karena Ada B nya" },
+        new string[] { "Lumba-Lumba", "Gajah dibalik batu", "Beruang", "Kuda" },
+        new string[] { "Pantene", "anZinc", "Emeron", "Sunsilk" },
+        new string[] { "Fir'a Unch", "Kim Jong-unch", "King Charles", "Destarasta" },
+        new string[] { "Huruf A", "Huruf B", "Huruf C", "Huruf D" },
+        new string[] { "Orang Utan", "Orang Sawah", "Orang Jambi", "Orang Gak Hujan pak~" },
+        new string[] { "Belimbingan Skripsi", "Alpucat", "Buah Naga", "Apelan" },
         };
         private int[] jawabanBenar = new int[] { 0, 1, 2, 3, 0, 3, 3, 1, 1, 0, 0, 1, 1, 0, 3}; // jawaban benar untuk setiap soal
 
@@ -223,6 +223,10 @@ namespace testing
             Console.Beep(1000, 100);
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }
