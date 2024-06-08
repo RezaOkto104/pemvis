@@ -60,15 +60,21 @@ namespace testing
             // Font labelFont = new Font("Montserrat", 36F, FontStyle.Regular);
             //label1.Font = labelFont;
 
-            button4.BackColor = ColorTranslator.FromHtml("#ECAF7A");
+            
             button1.BackColor = ColorTranslator.FromHtml("#ECAF7A");
             button2.BackColor = ColorTranslator.FromHtml("#ECAF7A");
         }
 
-        private void button4_Click(object sender, EventArgs e)
+
+
+        private void label1_Click(object sender, EventArgs e)
         {
-            materi materiForm = new materi(this);
-            materiForm.Show();
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
